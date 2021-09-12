@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://sales-report-ms.herokuapp.com';
